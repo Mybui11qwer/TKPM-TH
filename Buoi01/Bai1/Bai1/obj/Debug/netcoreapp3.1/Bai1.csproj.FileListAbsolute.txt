@@ -1,0 +1,14 @@
+D:\22dh112218_BuiKhanhMy\Buoi01\Bai1\Bai1\bin\Debug\netcoreapp3.1\Bai1.exe
+D:\22dh112218_BuiKhanhMy\Buoi01\Bai1\Bai1\bin\Debug\netcoreapp3.1\Bai1.deps.json
+D:\22dh112218_BuiKhanhMy\Buoi01\Bai1\Bai1\bin\Debug\netcoreapp3.1\Bai1.runtimeconfig.json
+D:\22dh112218_BuiKhanhMy\Buoi01\Bai1\Bai1\bin\Debug\netcoreapp3.1\Bai1.runtimeconfig.dev.json
+D:\22dh112218_BuiKhanhMy\Buoi01\Bai1\Bai1\bin\Debug\netcoreapp3.1\Bai1.dll
+D:\22dh112218_BuiKhanhMy\Buoi01\Bai1\Bai1\bin\Debug\netcoreapp3.1\Bai1.pdb
+D:\22dh112218_BuiKhanhMy\Buoi01\Bai1\Bai1\obj\Debug\netcoreapp3.1\Bai1.csproj.AssemblyReference.cache
+D:\22dh112218_BuiKhanhMy\Buoi01\Bai1\Bai1\obj\Debug\netcoreapp3.1\Bai1.GeneratedMSBuildEditorConfig.editorconfig
+D:\22dh112218_BuiKhanhMy\Buoi01\Bai1\Bai1\obj\Debug\netcoreapp3.1\Bai1.AssemblyInfoInputs.cache
+D:\22dh112218_BuiKhanhMy\Buoi01\Bai1\Bai1\obj\Debug\netcoreapp3.1\Bai1.AssemblyInfo.cs
+D:\22dh112218_BuiKhanhMy\Buoi01\Bai1\Bai1\obj\Debug\netcoreapp3.1\Bai1.csproj.CoreCompileInputs.cache
+D:\22dh112218_BuiKhanhMy\Buoi01\Bai1\Bai1\obj\Debug\netcoreapp3.1\Bai1.dll
+D:\22dh112218_BuiKhanhMy\Buoi01\Bai1\Bai1\obj\Debug\netcoreapp3.1\Bai1.pdb
+D:\22dh112218_BuiKhanhMy\Buoi01\Bai1\Bai1\obj\Debug\netcoreapp3.1\Bai1.genruntimeconfig.cache
